@@ -1,0 +1,12 @@
+Analyst note (internal), July 2026.
+
+DevOps and SRE hiring across Egypt and the wider MENA region accelerated sharply
+in the first half of 2026, with especially strong demand for Jenkins, Kubernetes,
+and Terraform skills. Several regional banks began migrating core workloads to
+managed cloud, and backup / disaster-recovery spend is now a board-level priority.
+
+On the competitive side: Acme is winning mid-market deals primarily on price after
+cutting cloud list prices ~15%. Globex is pushing upmarket with a premium AI add-on
+tier aimed at enterprises. Initech is expanding into the Gulf with a partner-led
+model. Customer churn is trending down industry-wide as retention programs mature,
+while cloud revenue share keeps climbing quarter over quarter.
